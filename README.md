@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Miguel Guillermo</h1>
-<h3 align="center">A passionate frontend developer from Wisconsin</h3>
+<img align="right" alt="profile" width=30% src="me.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelglrmo&label=Profile%20views&color=0e75b6&style=flat" alt="miguelglrmo" /> </p>
+<h1>miguelglrmo</h1>
+
+<p>Hello, my name is Miguel Guillermo
+
+I'm a 17 year old developer from Wisconsin.
+Looking to learn more languages in the near future,
+currently learning python and javascript.
+
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelglrmo" alt="miguelglrmo" /></a> </p>
 
